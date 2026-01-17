@@ -1,5 +1,7 @@
 # Whisper Base Multi (OnnxRuntime/DirectML) + Qwen Translation for Unity
 
+https://assetstore.unity.com/packages/slug/356244
+
 OpenAI Whisper is an automatic speech recognition (ASR) model trained on diverse multilingual audio; it transcribes speech to text and can auto-detect language.
 
 This package uses:
